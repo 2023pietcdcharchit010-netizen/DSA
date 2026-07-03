@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0016-3sum-closest) |
 | [0066-plus-one](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
