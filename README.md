@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0066-plus-one) |
+| [1688-count-of-matches-in-tournament](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/2469-convert-the-temperature) |
 ## Two Pointers
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0016-3sum-closest) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
