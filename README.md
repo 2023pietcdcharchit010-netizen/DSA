@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0374-guess-number-higher-or-lower](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1929-concatenation-of-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
