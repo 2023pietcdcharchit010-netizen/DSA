@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0088-merge-sorted-array) |
 ## Simulation
 |  |
 | ------- |
