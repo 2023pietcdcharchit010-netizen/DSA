@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0069-sqrtx) |
 | [1688-count-of-matches-in-tournament](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/2469-convert-the-temperature) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
