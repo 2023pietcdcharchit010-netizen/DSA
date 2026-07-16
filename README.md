@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [2469-convert-the-temperature](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/2469-convert-the-temperature) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0344-reverse-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0088-merge-sorted-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1929-concatenation-of-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
 |  |
 | ------- |
@@ -91,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
