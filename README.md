@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0069-sqrtx) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/2469-convert-the-temperature) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0443-string-compression) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
