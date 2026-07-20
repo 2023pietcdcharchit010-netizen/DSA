@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
