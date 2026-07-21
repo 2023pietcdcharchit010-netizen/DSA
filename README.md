@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0201-bitwise-and-of-numbers-range) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
