@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
 | ------- |
@@ -124,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
