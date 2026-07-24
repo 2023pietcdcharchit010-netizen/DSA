@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3668-restore-finishing-order](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3668-restore-finishing-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
+| [3668-restore-finishing-order](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3945-digit-frequency-score) |
 ## Counting
