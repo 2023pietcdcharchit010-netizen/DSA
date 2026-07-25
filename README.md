@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3945-digit-frequency-score) |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
