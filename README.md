@@ -147,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
