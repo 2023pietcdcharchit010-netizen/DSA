@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
