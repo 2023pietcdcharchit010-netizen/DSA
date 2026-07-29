@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
@@ -164,5 +166,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1572-matrix-diagonal-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
