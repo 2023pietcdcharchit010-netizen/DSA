@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0075-sort-colors) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0054-spiral-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1920-build-array-from-permutation) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1572-matrix-diagonal-sum) |
