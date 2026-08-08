@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3668-restore-finishing-order) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0076-minimum-window-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
