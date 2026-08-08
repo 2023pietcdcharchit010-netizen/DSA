@@ -11,6 +11,9 @@ public:
     string minWindow(string s, string t) {
         int n=s.size();
         int m=t.size();
+        int low=0;
+        int res=INT_MAX;
+        int start=-1;
 
         if(n<m){
             return "";
@@ -21,9 +24,6 @@ public:
         for(int i=0; i < m;i++){
             need[t[i]]++;
         }
-        int low=0;
-        int res=INT_MAX;
-        int start=-1;
 
         for(int high=0;high<s.length();high++){
             have[s[high]]++;
