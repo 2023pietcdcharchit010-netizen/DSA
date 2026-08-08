@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
