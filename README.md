@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1470-shuffle-the-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1572-matrix-diagonal-sum) |
@@ -219,4 +220,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
