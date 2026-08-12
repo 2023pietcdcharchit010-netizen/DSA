@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3668-restore-finishing-order](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3668-restore-finishing-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3668-restore-finishing-order) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0152-maximum-product-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+## Greedy
+|  |
+| ------- |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
