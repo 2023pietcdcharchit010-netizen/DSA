@@ -19,7 +19,7 @@ public:
         }
         int i=ans.size()-1;
         temp =head;
-        while(temp){
+        while(temp!=NULL){
             temp->val=ans[i];
             i--;
             temp=temp->next;
