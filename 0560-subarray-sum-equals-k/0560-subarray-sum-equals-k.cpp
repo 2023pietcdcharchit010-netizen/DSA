@@ -10,12 +10,12 @@ public:
             //Current PS
             sum+=nums[i];
             //Required previous PS
-            int ques=(sum-k);
-            //Frequency of PS
-            int freq=mp[ques];
-            //Add number of valid subarrays
-            count+=freq;
-            //store current PS
+            int Required=(sum-k);
+
+
+            if(mp.find(Required)!=mp.end()){
+                count+=mp[Required];
+            }
             mp[sum]++;
         }
         return count;
