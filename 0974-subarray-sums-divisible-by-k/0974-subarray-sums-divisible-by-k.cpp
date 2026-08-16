@@ -15,9 +15,10 @@ public:
             if(rem<0){
                 rem+=k;
             }
-            //if same remainder -> Sunarray sum divisible by K
-            res+=mp[rem];
-
+            //Check id remainder alredy exsists
+            if(mp.find(rem)!=mp.end()){
+                res+=mp[rem];
+            }
             //Increse the freq of current remainder
             mp[rem]++;
         }
