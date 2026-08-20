@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0525-contiguous-array](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
+| [0525-contiguous-array](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
