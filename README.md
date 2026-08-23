@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0986-interval-list-intersections](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1470-shuffle-the-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0986-interval-list-intersections) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0056-merge-intervals) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
