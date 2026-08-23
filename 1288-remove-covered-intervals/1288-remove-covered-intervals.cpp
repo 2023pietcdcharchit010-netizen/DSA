@@ -15,7 +15,7 @@ public:
         int result = 1;
 
         for(int i = 1; i < n; i++) {
-
+            int start2 = intervals[i][0];
             int end2 = intervals[i][1];
 
             // Current interval is covered
