@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1288-remove-covered-intervals](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1288-remove-covered-intervals) |
 | [1470-shuffle-the-array](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1512-number-of-good-pairs) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1288-remove-covered-intervals](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1288-remove-covered-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
