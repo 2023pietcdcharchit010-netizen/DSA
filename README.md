@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0443-string-compression) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Number Theory
 |  |
