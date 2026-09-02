@@ -22,8 +22,9 @@ public:
         }
 
         vector<int> result;
-        for(int num:nums1){
-            result.push_back(mp[num]);
+        int m=nums1.size();
+        for(int i=0;i<m;i++){
+            result.push_back(mp[nums1[i]]);
         }
         return result; 
     }
