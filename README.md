@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1795-rearrange-products-table) |
 | [1965-employees-with-missing-information](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/1965-employees-with-missing-information) |
 ## Counting Sort
 |  |
