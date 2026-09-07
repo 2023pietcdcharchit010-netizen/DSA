@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/2023pietcdcharchit010-netizen/daily-coding-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0231-power-of-two) |
