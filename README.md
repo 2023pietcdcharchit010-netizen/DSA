@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0496-next-greater-element-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/2023pietcdcharchit010-netizen/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
